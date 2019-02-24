@@ -1,6 +1,6 @@
 import sys
 
-import pygame
+import pygame    
 
 from settings import Settings
 
